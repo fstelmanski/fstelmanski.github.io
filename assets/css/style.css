@@ -225,7 +225,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #hero p {
   color: #fff;
-  margin-bottom: 50px;
+  margin-bottom: 800px;
   margin-left: 180px;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
@@ -372,6 +372,16 @@ section {
   top: 0;
   background: #fff;
   border: 2px solid #1f5297;
+}
+/*--------------------------------------------------------------
+# Projects
+--------------------------------------------------------------*/
+.projects .projects-container {
+  padding: 0 0 20px 20px;
+  margin-top: -2px;
+  margin-left: 300px;
+  align: center;
+  position: center;
 }
 
 /*--------------------------------------------------------------
